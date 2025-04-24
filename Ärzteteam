@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Ärzteteam - Praxis Dr. XY</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      background: #f4f4f4;
+      color: #333;
+    }
+    header {
+      background: #006699;
+      color: white;
+      padding: 2rem;
+      text-align: center;
+    }
+    main {
+      max-width: 900px;
+      margin: auto;
+      background: white;
+      padding: 2rem;
+    }
+    .doctor-card {
+      display: flex;
+      gap: 1rem;
+      border-bottom: 1px solid #ccc;
+      padding-bottom: 2rem;
+      margin-bottom: 2rem;
+    }
+    .doctor-card img {
+      max-width: 150px;
+      border-radius: 50%;
+    }
+    .doctor-card .doctor-info {
+      flex: 1;
+    }
+    footer {
+      text-align: center;
+      padding: 1rem;
+      background: #006699;
+      color: white;
+      margin-top: 2rem;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Unser Ärzteteam</h1>
+    <p>Wir stellen uns vor – Ihre Ärzte in der Praxis Dr. XY</p>
+  </header>
+
+  <main>
+    <div class="doctor-card">
+      <img src="arzt1.jpg" alt="Dr. XY" />
+      <div class="doctor-info">
+        <h2>Dr. XY</h2>
+        <p>Facharzt für Allgemeinmedizin. Dr. XY ist seit 10 Jahren in der Praxis tätig und spezialisiert auf präventive Gesundheitsvorsorge und chronische Erkrankungen.</p>
+      </div>
+    </div>
+
+    <div class="doctor-card">
+      <img src="arzt2.jpg" alt="Dr. ZY" />
+      <div class="doctor-info">
+        <h2>Dr. ZY</h2>
+        <p>Fachärztin für Innere Medizin. Dr. ZY hat langjährige Erfahrung in der Behandlung von Herz-Kreislauf-Erkrankungen und der klinischen Diagnostik.</p>
+      </div>
+    </div>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Praxis Dr. XY</p>
+  </footer>
+
+</body>
+</html>
