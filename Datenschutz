@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Datenschutz - Praxis Dr. XY</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; background: #f4f4f4; color: #333; }
+    header, footer { background: #006699; color: white; text-align: center; padding: 1.5rem; }
+    main { max-width: 800px; margin: auto; background: white; padding: 2rem; }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Datenschutzerklärung</h1>
+  </header>
+
+  <main>
+    <p>Wir nehmen den Schutz Ihrer persönlichen Daten sehr ernst. Ihre Daten werden im Rahmen der gesetzlichen Vorschriften (insbesondere dem Schweizer Datenschutzgesetz, DSG) geschützt.</p>
+
+    <h2>1. Erhebung und Verarbeitung persönlicher Daten</h2>
+    <p>Personenbezogene Daten (z. B. Name, Adresse, E-Mail) werden nur gespeichert, wenn Sie diese aktiv übermitteln (z. B. per E-Mail).</p>
+
+    <h2>2. Keine Weitergabe an Dritte</h2>
+    <p>Ihre Daten werden nicht an Dritte weitergegeben, es sei denn, es besteht eine gesetzliche Pflicht dazu.</p>
+
+    <h2>3. Server-Logfiles</h2>
+    <p>Beim Aufruf dieser Webseite werden gewisse Daten automatisch gespeichert (z. B. IP-Adresse, Browsertyp), um die Website technisch betreiben zu können. Diese Daten werden nicht personenbezogen ausgewertet.</p>
+
+    <h2>4. Ihre Rechte</h2>
+    <p>Sie haben das Recht auf Auskunft, Berichtigung, Löschung oder Sperrung Ihrer gespeicherten Daten. Bitte kontaktieren Sie uns dafür per E-Mail.</p>
+
+    <p>Stand: April 2025</p>
+  </main>
+
+  <footer>
+    &copy; 2025 Praxis Dr. XY
+  </footer>
+
+</body>
+</html>
